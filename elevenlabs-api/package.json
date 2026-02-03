@@ -1,0 +1,11 @@
+{
+  "name": "elevenlabs-api",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "elevenlabs-api": "src/index.ts"
+  },
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}

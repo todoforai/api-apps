@@ -1,0 +1,11 @@
+{
+  "name": "api-apps",
+  "private": true,
+  "workspaces": ["elevenlabs-api", "suno-api"],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
