@@ -1,0 +1,11 @@
+{
+  "name": "@todoforai/google-play-api",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "google-play-api": "src/index.ts"
+  },
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
